@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\images2.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\src\\main\\res\\drawable-xhdpi\\images2.jpg"
+    },
+    {
+        "merged": "D:\\new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\images2.jpg",
+        "source": "D:\\new\\app\\src\\main\\res\\drawable-xhdpi\\images2.jpg"
+    },
+    {
+        "merged": "D:\\new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\images.jpg",
+        "source": "D:\\new\\app\\src\\main\\res\\drawable-xhdpi\\images.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\images.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\src\\main\\res\\drawable-xhdpi\\images.jpg"
+    }
+]

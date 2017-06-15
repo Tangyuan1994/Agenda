@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@drawable/schedule_bk"
+	android:weightSum="1">
+    
+  <RelativeLayout
+        android:id="@+id/caipiaotop"
+        android:layout_width="fill_parent"
+        android:layout_height="50.0dip"
+        android:background="@drawable/schedule_title_bg" >
+
+        
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_centerHorizontal="true"
+            android:gravity="center_vertical"
+            android:text="Check Lunar Calendar"
+            android:textColor="#ffffffff"
+            android:textSize="24.0dip" />
+
+    </RelativeLayout>
+
+	<com.ecology.calenderproj.base.BorderTextView
+      android:id="@+id/convertDate"
+      android:layout_marginTop="5dp"
+	  android:gravity="center"
+	  android:layout_width="fill_parent"
+	  android:layout_height="40dp"
+	  android:background="#ffffff"
+	  android:drawableRight="@drawable/date_convert"
+	  android:paddingRight="5dp"
+	  android:textStyle="bold"
+	  android:clickable="true"
+	  android:textColor="#000000"
+  />
+
+	<com.ecology.calenderproj.base.BorderTextView
+		android:id="@+id/convert"
+		android:layout_width="100dp"
+		android:layout_height="40dp"
+		android:layout_gravity="center_horizontal"
+		android:layout_marginTop="5dp"
+		android:background="#2378eb"
+		android:clickable="true"
+		android:gravity="center"
+		android:paddingRight="5dp"
+		android:text="Check"
+		android:textColor="#ffffff"
+		android:textStyle="bold" />
+
+	<com.ecology.calenderproj.base.BorderTextView
+      android:id="@+id/convertResult"
+      android:layout_marginTop="5dp"
+	  android:gravity="center"
+	  android:layout_margin="5dp"
+	  android:layout_width="fill_parent"
+	  android:layout_height="100dp"
+	  android:background="#d8f781d2"
+	  android:textStyle="bold"
+	  android:textColor="#ffffff"
+	  android:textSize="20sp"
+  />
+
+	<ImageView
+		android:id="@+id/imageView"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:src="@drawable/images2"
+		android:layout_weight="1.06" />
+</LinearLayout>

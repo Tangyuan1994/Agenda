@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar.xml",
+        "source": "D:\\new\\app\\src\\main\\res\\layout\\calendar.xml"
+    },
+    {
+        "merged": "D:\\new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\convert.xml",
+        "source": "D:\\new\\app\\src\\main\\res\\layout\\convert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scan_schedule_details.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\src\\main\\res\\layout\\scan_schedule_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\schedule_detail_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\src\\main\\res\\layout\\schedule_detail_item.xml"
+    },
+    {
+        "merged": "D:\\new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\schedule_detail_item.xml",
+        "source": "D:\\new\\app\\src\\main\\res\\layout\\schedule_detail_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scheduleadd.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\src\\main\\res\\layout\\scheduleadd.xml"
+    },
+    {
+        "merged": "D:\\new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scheduleadd.xml",
+        "source": "D:\\new\\app\\src\\main\\res\\layout\\scheduleadd.xml"
+    },
+    {
+        "merged": "D:\\new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\schedule_details_no.xml",
+        "source": "D:\\new\\app\\src\\main\\res\\layout\\schedule_details_no.xml"
+    },
+    {
+        "merged": "D:\\new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\schedule_details.xml",
+        "source": "D:\\new\\app\\src\\main\\res\\layout\\schedule_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\convert.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\src\\main\\res\\layout\\convert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\schedule_details_no.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\src\\main\\res\\layout\\schedule_details_no.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calender_main.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\src\\main\\res\\layout\\calender_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tixing.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\src\\main\\res\\layout\\tixing.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\src\\main\\res\\layout\\calendar.xml"
+    },
+    {
+        "merged": "D:\\new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calender_main.xml",
+        "source": "D:\\new\\app\\src\\main\\res\\layout\\calender_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\schedule_details.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\src\\main\\res\\layout\\schedule_details.xml"
+    }
+]

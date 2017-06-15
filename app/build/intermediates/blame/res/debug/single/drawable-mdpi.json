@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\previous_year.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\src\\main\\res\\drawable-mdpi\\previous_year.png"
+    },
+    {
+        "merged": "D:\\new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\previous_year.png",
+        "source": "D:\\new\\app\\src\\main\\res\\drawable-mdpi\\previous_year.png"
+    },
+    {
+        "merged": "D:\\new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\new\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\next_year.png",
+        "source": "D:\\new\\app\\src\\main\\res\\drawable-mdpi\\next_year.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\next_year.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\new\\app\\src\\main\\res\\drawable-mdpi\\next_year.png"
+    }
+]
